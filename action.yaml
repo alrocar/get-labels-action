@@ -1,4 +1,4 @@
-name: 'Get labels action by key'
+name: 'Get labels action by key (tb)'
 description: 'Gets PR label by a specified key'
 inputs:
   label_key:
